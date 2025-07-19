@@ -1,0 +1,5 @@
+super user {Email: abcd@gmail.com
+Name: Alex
+Password: 1234
+Password (again):1234}
+
